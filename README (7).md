@@ -1,11 +1,10 @@
 # Mikroserwis Atrakcji Turystycznych
 
-> Jeden mikroserwis · Cztery moduły · REST API · Java + Spring Boot
+> Jeden mikroserwis · Cztery moduły
 
 | | |
 |---|---|
 | **Wersja** | 1.0 – Prototyp |
-| **Typ** | Projekt grupowy |
 | **Stack** | Java 21 + Spring Boot 3.2 |
 
 ---
