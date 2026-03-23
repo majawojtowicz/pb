@@ -166,7 +166,7 @@ public class SpecificationRegistry {
 
 ### 3.4 Archetyp produktu
 
-Archetyp to niezmienne DNA atrakcji. Raz opublikowany archetyp nie może być modyfikowany. Zmiany wymagają stworzenia nowego archetypu (np. nowa wersja trasy zwiedzania).
+Archetyp to niezmienna czesc atrakcji. Raz opublikowany archetyp nie może być modyfikowany. Zmiany wymagają stworzenia nowego archetypu (np. nowa wersja trasy zwiedzania).
 
 | Pole | Typ | Czy zmienne? | Opis |
 |---|---|---|---|
