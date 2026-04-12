@@ -624,5 +624,3 @@ PATCH /api/plans/{planId}/confirm
 ```
 
 ---
-
-*Dokumentacja wygenerowana dla projektu grupowego – prototyp na pierwsze zajęcia.*
